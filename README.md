@@ -10,8 +10,8 @@ Sai Bhavya technologies is a fully responsive education website, <br />Responsiv
 
 </div>
 
-  ## Git publish link:
-  https://github.com/Ethhacjer/weeb-dev/deployments/github-pages
+  ## Live link:
+ https://ethhacjer.github.io/weeb-dev/
 
 <br />
 
